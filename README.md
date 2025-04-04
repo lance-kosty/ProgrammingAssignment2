@@ -1,8 +1,8 @@
 
 ### Programming Assignment 2: Lexical Scoping
-    https://www.coursera.org/learn/r-programming/home/module/3 (class link)
-    https://www.youtube.com/watch?v=ABW179vwsXY (walkthrough part 1)
-    https://www.youtube.com/watch?v=7J2wpxyjfn8 (walkthrough part 2
+    #https://www.coursera.org/learn/r-programming/home/module/3 (class link)
+    #https://www.youtube.com/watch?v=ABW179vwsXY (walkthrough part 1)
+    #https://www.youtube.com/watch?v=7J2wpxyjfn8 (walkthrough part 2
 ### Introduction
 
 This second programming assignment will require you to write an R
